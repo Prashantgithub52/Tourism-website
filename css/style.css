@@ -121,11 +121,15 @@ html {
 }
 
 .cir_border {
-  padding: 6px 20px;
   font-weight: bold;
-  border: 2px hidden whitesmoke;
-  border-radius: 20px;
-  margin: 0px -10px;
+  border-radius: 50px;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+.cir_border:hover {
+  background-color: #fff;
+  color: #000;
 }
 
 header {
@@ -652,7 +656,7 @@ img:hover {
 
 
 .active {
-  border: 2px solid whitesmoke;
+  /* border: 2px solid whitesmoke; */
   border-radius: 20px;
   color: #fc036b;
   cursor: pointer;
@@ -670,7 +674,7 @@ img:hover {
 }
 
 body {
- background-color: black;
+  background-color: black;
   color: white;
 }
 
