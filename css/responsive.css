@@ -10,7 +10,7 @@
     margin-bottom: 30px;
   }
 }
-@media screen and (max-width: 1130px) {
+@media screen and (max-width: 930px) {
   .menu-btn {
     display: block;
   }

@@ -147,7 +147,7 @@ header {
   text-align: center;
   z-index: 1;
   padding: 4rem;
-  margin-bottom: 150px;
+  margin-bottom: 60px;
 }
 
 .header-content a {
@@ -169,7 +169,25 @@ header {
 .header-content h1 {
   font-size: 7vmin;
   margin-top: 50px;
-  margin-bottom: 30px;
+  margin-left: 150px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: fit-content;
+  margin-bottom: 20px;
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: saturate(180%) blur(1.5px);
+}
+
+.header-content p {
+  font-size: 4.5vmin;
+  padding: 15px;
+  width: fit-content;
+  margin-bottom: 40px;
+  letter-spacing: 0.2rem;
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: saturate(180%) blur(1.5px);
 }
 
 .ctn {
