@@ -168,15 +168,14 @@ header {
 
 .header-content h1 {
   font-size: 7vmin;
-  margin-top: 50px;
-  margin-left: 150px;
   padding-left: 20px;
   padding-right: 20px;
   width: fit-content;
-  margin-bottom: 20px;
   font-weight: 600;
   background: rgba(0, 0, 0, 0.1);
   backdrop-filter: saturate(180%) blur(1.5px);
+  margin: 50px auto 20px auto;
+  text-align: center;
 }
 
 .header-content p {
