@@ -1,2 +1,1 @@
-# Tourism-website
-Its's a tourism website, where you explore destinations for tour in india.
+link to visit the site: https://prashantgithub52.github.io/Tourism-website/
